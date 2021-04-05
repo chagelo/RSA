@@ -1,3 +1,3 @@
-# RSA_ECB
+# RSA
 
-RSA 2048 基于ECB的简单实现
+RSA 加密文件的简单实现
